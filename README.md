@@ -10,7 +10,7 @@
                                      |                 +-->video_01.mp4 ..etc
                                       ----> folder_02--+-->video_f00.mp4
                                                        +-->video_f01.mp4
- </pre>                                               
+ </pre><br>                                               
 - no database requiretment.
 
 - just for private notes
