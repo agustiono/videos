@@ -6,4 +6,4 @@
 - root directory for (video).mp4 file /home/user/public_html/media/videos/directory_video
 - no database requiretment.
 
-- for private notes
+- just for private notes
