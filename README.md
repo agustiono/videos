@@ -6,10 +6,10 @@
 - root directory for (video).mp4 file /home/user/public_html/media/videos/directory_video
   <br>schema directory
   <pre>
-   ----/public_html/media ----+----> folder_01--+-->video_00.mp4
-                              |                 +-->video_01.mp4 ..etc
-                               ----> folder_02--+-->video_f00.mp4
-                                                +-->video_f01.mp4
+   ----/public_html/media/videos/----+----> folder_01--+-->video_00.mp4
+                                     |                 +-->video_01.mp4 ..etc
+                                      ----> folder_02--+-->video_f00.mp4
+                                                       +-->video_f01.mp4
  </pre>                                               
 - no database requiretment.
 
